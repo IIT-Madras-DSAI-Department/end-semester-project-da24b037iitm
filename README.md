@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R05VM8Rg)
 # IIT-Madras-DA2401-Machine-Learning-Lab-End-Semester-Project
 
 ## 📌 Purpose of this Template
@@ -17,13 +18,16 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
+* My repository contains 2 csv files and 2 .py which are there for submission.
+* the main.py file is to used for predictions in the test dataset.
 
 ---
 
 ## 📦 Installation & Dependencies
 
-* Mention all the related instructions for installation of related packages for running your code here.
+* latest python version containing the following set of libraries:
+* pandas, numpy , matplotlib.pyploy, time.
+
 
 ---
 
@@ -34,16 +38,14 @@ All experiments should be runnable from the command line **and** reproducible in
 ### A. Command-line (recommended for grading)
 
 * Mention the instructions to run you .py files.
-  
----
 
-## You can further add your own sections/titles along with corresponding contents here:
+--- for predicting on the test dataset , just replace the validation dataset in the main.py file with the test dataset which you have.
+--- you can directly run the algorithms.py file, with both csv file in the same directly in which you are run the py file.
 
----
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**Ayush Kanojiya,DA24B037**, IIT Madras (2025–26)
 
 
 ## Best Practices:
